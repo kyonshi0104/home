@@ -1,7 +1,12 @@
+@font-face {
+    font-family: "任意のフォント名";
+    src: url("../fonts/PixelMplus12.ttf") format("truetype");
+    }
+
 body {
     font-family: "PixelMplus12";
-    background-color:lightslategray;
-    color:rgb(79, 120, 156);
+    background-color: lightslategray;
+    color: rgb(79, 120, 156);
 }
 
 header {
