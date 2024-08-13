@@ -1,5 +1,5 @@
 @font-face {
-    font-family: "任意のフォント名";
+    font-family: "PixelMplus12";
     src: url("../fonts/PixelMplus12.ttf") format("truetype");
     }
 
@@ -41,3 +41,4 @@ footer {
 .img {
     margin: 10px;
 }
+
