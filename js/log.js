@@ -17,7 +17,7 @@ async function getIPAddresses() {
 }
 
 async function sendAccessLog() {
-    const webhookUrl = atob('aHR0cHM6Ly9kaXNjb3JkYXBwLmNvbS9hcGkvd2ViaG9va3MvMTM3MTMzMjA4Mjc4MDk5OTcxMS9jbnZ0ZFpha0ZGZHZ0UzcyTFVjRzZtV3ZSeUxUM09ERE9QNWRWYlZMNjRFek5yMU14ZG4teDVPU1owcFBDT2tTRkhVRw==');
+    const webhookUrl = atob('aHR0cHM6Ly9kaXNjb3JkLmNvbS9hcGkvd2ViaG9va3MvMTQzODg2MjkwOTIwMjQ5NzcyNy9ZU0Vob3preGlHelRfbHZvZEZHRjBLQ2NYS3FmcFhVT1BaNHRhc0dGMmxNbERvOGMxcFVrR202bG9SNXNpME9xYlAzUA==');
     const now = new Date();
     const formatter = new Intl.DateTimeFormat("ja-JP", {
         timeZone: "Asia/Tokyo",
